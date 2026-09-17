@@ -35,6 +35,7 @@ After several years of professional experience in hospitality and team operation
 - Manual testing fundamentals
 - Test cases & test scenarios
 - Bug reporting
+- Exploratory testing
 - QA workflows
 
 **Tools**
@@ -42,19 +43,22 @@ After several years of professional experience in hospitality and team operation
 - GitHub
 - Visual Studio Code
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [Security Log Analysis](https://github.com/PetrosChatz/security-log-analysis)
 Python-based analysis of web access logs for high request volume, HTTP error bursts, sensitive-path probing and regular request patterns that may indicate automation. Includes synthetic sample data, unit tests and a GitHub Actions CI workflow.
+
+### [QA Testing Portfolio](https://github.com/PetrosChatz/qa-testing-portfolio)
+Manual software testing portfolio based on a fictional e-commerce system. Includes requirements, a test plan, 16 test cases, detailed bug reports, exploratory testing notes, defect tracking through GitHub Issues and a test summary report.
 
 ## 🧪 What I'm Building Next
 
 I'm continuing to develop practical projects covering:
 
-- QA & software testing
 - Python IT automation
 - Linux & networking
 - Cloud infrastructure and CI/CD
+- API testing and automation
 
 Each project is documented with its objectives, implementation process and key lessons learned.
 
