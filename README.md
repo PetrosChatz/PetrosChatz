@@ -51,11 +51,13 @@ Python-based analysis of web access logs for high request volume, HTTP error bur
 ### [QA Testing Portfolio](https://github.com/PetrosChatz/qa-testing-portfolio)
 Manual software testing portfolio based on a fictional e-commerce system. Includes requirements, a test plan, 16 test cases, detailed bug reports, exploratory testing notes, defect tracking through GitHub Issues and a test summary report.
 
+### [Python IT Automation Toolkit](https://github.com/PetrosChatz/python-it-automation)
+Practical Python utilities for system inventory, connectivity checks, disk monitoring and safe file organization. Demonstrates command-line scripting, filesystem operations, basic troubleshooting and defensive automation design.
+
 ## 🧪 What I'm Building Next
 
 I'm continuing to develop practical projects covering:
 
-- Python IT automation
 - Linux & networking
 - Cloud infrastructure and CI/CD
 - API testing and automation
