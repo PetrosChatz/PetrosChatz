@@ -42,11 +42,15 @@ After several years of professional experience in hospitality and team operation
 - GitHub
 - Visual Studio Code
 
-## 🚀 What I'm Building
+## 🚀 Featured Project
 
-I'm currently developing a portfolio of practical IT projects covering:
+### [Security Log Analysis](https://github.com/PetrosChatz/security-log-analysis)
+Python-based analysis of web access logs for high request volume, HTTP error bursts, sensitive-path probing and regular request patterns that may indicate automation. Includes synthetic sample data, unit tests and a GitHub Actions CI workflow.
 
-- Security log analysis
+## 🧪 What I'm Building Next
+
+I'm continuing to develop practical projects covering:
+
 - QA & software testing
 - Python IT automation
 - Linux & networking
